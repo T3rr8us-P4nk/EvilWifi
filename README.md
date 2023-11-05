@@ -33,4 +33,4 @@ Please use EvilWifi responsibly and adhere to your local laws and regulations.
 If you have encountered some bugs or errors, or if you have ideas and recommendations, you can direct message me on my Facebook page: https://www.facebook.com/T3rr8usP4nk
 
 ## Special Thanks:
-Thanks to the tools related on thsi and to my friends for inspiring me to create this tool.
+Thanks to the tools related on this and to my friends for inspiring me to create this tool.
