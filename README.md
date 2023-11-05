@@ -20,6 +20,13 @@
    $ ./evilwifi.sh
 
 2. ESP8266 NodeMCU Setup
-   1. Download ESP8266 Loader
-   2. Open the app and insert your otg cable on your esp8266 to your phone
-   3. Find the file: evilwifi.bin and upload it
+   • Download ESP8266 Loader
+   • Connect your ESP8266 to your phone using OTG Cable
+   • Find the file: evilwifi.bin and upload it
+
+## Disclaimer:
+This tool should only be used for legal and ethical purposes. Unauthorized use of EvilWifi may violate privacy and computer security laws. The creator assumes no responsibility for any illegal activities.
+
+Please use EvilWifi responsibly and adhere to your local laws and regulations.
+
+
