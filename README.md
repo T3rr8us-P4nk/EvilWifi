@@ -13,11 +13,10 @@
 1. Clone the repository:
    ```bash
    $ git clone https://github.com/T3rr8us-P4nk/EvilWifi.git
-   ```bash
    $ cd EvilWifi
-   ```bash
    $ bash install.sh
-   ```bash
+
+   Run:
    $ ./evilwifi.sh
 
 2. ESP8266 NodeMCU Setup
